@@ -1,0 +1,68 @@
+.navs{
+    height: 5px;
+    width: 20px;
+    size: 30mm;
+}
+#contact{
+    display: flex;
+    justify-content: space-around;
+    margin: auto;
+    height: 50%;
+    width: 90%;
+    padding: 12 15 20 0;
+}
+.geoloc{
+    margin-right: 60px;
+}
+.du_text{
+    font-size: 125%;
+}
+#bloc{
+    display: flex;
+    margin: auto;
+    margin-left: 68mm;
+}
+video{
+    margin: auto;
+    margin-left: 62mm;
+}
+.tout{
+    color: orange;
+    font-style: oblique;
+    margin-left: 62mm;
+}
+.lien{
+    color: orangered;
+}
+.info{
+    font-style: oblique;
+}
+.liens{
+    color: orangered;
+    font-style: oblique;
+}
+.social{
+    display: flex;
+}
+.appel{
+    height: 65px;
+    width: 70px;
+}
+.app{
+    display: flex;
+}
+#blocu{
+    margin: auto;
+    margin-left: 60mm;
+}
+.listservice{
+    margin: auto;
+    margin-left: 110mm;
+}
+.obl{
+    font-style: oblique;
+}
+.liens{
+    color: orange;
+    font-style: oblique;
+}
